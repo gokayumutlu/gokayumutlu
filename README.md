@@ -1,6 +1,9 @@
-### Hi there 👋
 
-- 🌱 I’m currently learning Spring & Docker
+- Currently working on Personal Web Site Project with .Net Core
+- I’m learning Spring & Docker
+- Next thing to learn will be Jenkins
+- Long-term learning(and making projects) goal is Artificial Intelligence(Specifically Neural Networks)
+
 
 Links to socials:
 <br>
