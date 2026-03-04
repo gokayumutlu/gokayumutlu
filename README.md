@@ -1,8 +1,5 @@
 
-- Currently working on Personal Web Site Project with .Net Core
-- I’m learning Spring & Docker
-- Next thing to learn will be Redis & Jenkins
-- Long-term learning(and making projects) goal is Artificial Intelligence(Specifically Neural Networks)
+
 
 
 Links to socials:
